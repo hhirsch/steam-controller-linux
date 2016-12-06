@@ -13,7 +13,7 @@ Fixed the following error for me:
     [ 751.559722] hid-generic 0003:2F00:1052.000F: hiddev0,hidraw0: USB HID v1.11 Device [Valve Software BOOT LDR] on usb-0000:00:14.0-12.3/input0
 
 ## Steam Keyboard
-In Order to get the Steam Keyboard to work make sure that the window "Steam Keyboard" is set to always on top undecorated. (2)
+In Order to get the Steam Keyboard to work make sure that the window "Steam Keyboard" is set to always on top undecorated and that it does not get the focus. (2)
 
 ## Sources
 1. https://wiki.archlinux.org/index.php/Gamepad#Steam_Controller
