@@ -18,6 +18,9 @@ In Order to get the Steam Keyboard to work make sure that the window "Steam Keyb
 - [steam-keyboard-mouse-focus.ds](./steam-keyboard-mouse-focus.ds) is a very unsatisfying fix (for awesomewm)
 - [steam-keyboard.ds](./steam-keyboard.ds) is a fix for gnome
 
+## What does not work?
+- Gamepad emulation with steam games.
+
 ## Sources
 1. https://wiki.archlinux.org/index.php/Gamepad#Steam_Controller
 2. https://steamcommunity.com/app/353370/discussions/0/412449508278650766/
