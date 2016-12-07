@@ -16,7 +16,7 @@ Fixed the following error for me:
 In Order to get the Steam Keyboard to work make sure that the window "Steam Keyboard" is set to always on top undecorated and that it does not get the focus. (2)
 
 - [steam-keyboard-mouse-focus.ds](./steam-keyboard-mouse-focus.ds) is a very unsatisfying fix (for awesomewm)
-- [steam-keyboard.ds](./steam-keyboard.ds) is a fix for gnome)
+- [steam-keyboard.ds](./steam-keyboard.ds) is a fix for gnome
 
 ## Sources
 1. https://wiki.archlinux.org/index.php/Gamepad#Steam_Controller
