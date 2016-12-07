@@ -1,0 +1,11 @@
+; Devilspie hack to give the focus back to the window below
+; For wms that give the focus to where the mouse cursor is
+; This does not work very flawless
+; Copy this into ~/.devilspie/ and run devilspie
+( if  
+( is ( window_name ) "Steam Keyboard" )
+( begin 
+( spawn_sync "sleep 1" )
+( spawn_sync "xdotool mousemove 2100 100" )
+)
+)
