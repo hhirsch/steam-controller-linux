@@ -1,4 +1,4 @@
-# Steam Controller
+# Steam Controller Linux Instructions
 Instructions to run the steam controller under linux.
 
 ## Basic Setup
