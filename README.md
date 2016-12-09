@@ -20,6 +20,7 @@ In Order to get the Steam Keyboard to work make sure that the window "Steam Keyb
 
 ## (Testing) Gamepad Emulation
 Run the following command as root user:
+
     chown root:steamcontroller /dev/uinput; chmod g+rw /dev/uinput;
 
 ## What does not work?
