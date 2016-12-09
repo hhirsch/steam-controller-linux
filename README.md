@@ -28,7 +28,9 @@ Put it into your */etc/rc.local* so that it will be executed on every boot.
 Tested on Manjaro 4.1.34-2
 
 ## What does not work?
-- Gamepad emulation with steam games.
+- Gamepad and Keyboard Mouse emulation with some steam games.
+- Correct mappings to Keyboards other than QWERTY
+- Steam Keyboard in some window managers (especially tiled)
 
 ## Sources
 1. https://wiki.archlinux.org/index.php/Gamepad#Steam_Controller
