@@ -1,6 +1,7 @@
+[![Join the chat at https://gitter.im/hhirsch/steam-controller-linux](https://badges.gitter.im/hhirsch/steam-controller-linux.svg)](https://gitter.im/hhirsch/steam-controller-linux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Steam Controller Linux Instructions
 
-[![Join the chat at https://gitter.im/hhirsch/steam-controller-linux](https://badges.gitter.im/hhirsch/steam-controller-linux.svg)](https://gitter.im/hhirsch/steam-controller-linux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Instructions to run the steam controller under linux.
 
 ## Basic Setup
