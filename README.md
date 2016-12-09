@@ -2,6 +2,9 @@
 Instructions to run the steam controller under linux.
 
 ## Basic Setup
+Opting into the Steam Beta did disable the controller compleately on my machine. However there are some
+users that report improvments (4).
+
 See comments in [70-steam-controller-permission.rule](./70-steam-controller-permission.rule) (1)
 
 Tested on Manjaro 4.1.34-2
