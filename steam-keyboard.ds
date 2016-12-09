@@ -1,3 +1,4 @@
+; Copy this into ~/.devilspie/ and run devilspie
 (if
 (is (window_name) "Steam Keyboard")
 (begin
