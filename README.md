@@ -27,6 +27,10 @@ Put it into your */etc/rc.local* so that it will be executed on every boot.
 
 Tested on Manjaro 4.1.34-2
 
+An unconfirmed udev rule to archive this is (4):
+
+    KERNEL=="uinput", MODE="0660", GROUP="steamcontroller", OPTIONS+="static_node=uinput"
+
 ## What does not work?
 - Gamepad and Keyboard Mouse emulation with some steam games.
 - Correct mappings to Keyboards other than QWERTY
@@ -36,3 +40,4 @@ Tested on Manjaro 4.1.34-2
 1. https://wiki.archlinux.org/index.php/Gamepad#Steam_Controller
 2. https://steamcommunity.com/app/353370/discussions/0/412449508278650766/
 3. http://steamcommunity.com/app/353370/discussions/0/490123197956024380/?ctp=3
+4. http://steamcommunity.com/app/353370/discussions/0/490123197956024380/?ctp=4
