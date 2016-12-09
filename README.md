@@ -22,7 +22,9 @@ In Order to get the Steam Keyboard to work make sure that the window "Steam Keyb
 Run the following command as root user:
 
     chown root:steamcontroller /dev/uinput; chmod g+rw /dev/uinput;
-    
+
+Put it into your */etc/rc.local* so that it will be executed on every boot.
+
 Tested on Manjaro 4.1.34-2
 
 ## What does not work?
