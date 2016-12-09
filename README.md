@@ -19,7 +19,7 @@ In Order to get the Steam Keyboard to work make sure that the window "Steam Keyb
 - [steam-keyboard.ds](./steam-keyboard.ds) is a fix for gnome
 
 ## Gamepad Emulation
-Run the following command as root user:
+Run the following command as root user (3):
 
     chown root:steamcontroller /dev/uinput; chmod g+rw /dev/uinput;
 
@@ -35,3 +35,4 @@ Tested on Manjaro 4.1.34-2
 ## Sources
 1. https://wiki.archlinux.org/index.php/Gamepad#Steam_Controller
 2. https://steamcommunity.com/app/353370/discussions/0/412449508278650766/
+3. http://steamcommunity.com/app/353370/discussions/0/490123197956024380/?ctp=3
