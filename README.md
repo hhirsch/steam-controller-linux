@@ -8,6 +8,10 @@ Instructions to run the steam controller under linux.
 Opting into the Steam Beta did disable the controller completely on my machine. However there are some
 users that report improvements (4).
 
+The connected gamepads are numbered arbitrary and some games only use the first gamepad on the machine so
+if you have xbox or playstation controllers connected using the steam controller will do nothing in the game
+even though you have set up everything as pointed out in this guide.
+
 See comments in [70-steam-controller-permission.rule](./70-steam-controller-permission.rule) (1)
 
 Tested on Manjaro 4.1.34-2
