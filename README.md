@@ -30,6 +30,9 @@ Run the following command as root user (3):
     chown root:steamcontroller /dev/uinput; chmod g+rw /dev/uinput;
 
 Put it into your */etc/rc.local* so that it will be executed on every boot.
+Or add the following line to roots crontab:
+
+    @reboot chown root:steamcontroller /dev/uinput; chmod g+rw /dev/uinput;
 
 Tested on Manjaro 4.1.34-2
 
